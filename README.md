@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHQPyrGqBDJ9A/profile-displaybackgroundimage-shrink_350_1400/B56ZgL.0yWGUAY-/0/1752547676860?e=1756944000&v=beta&t=7dRIx6O9TNNN_PCPE9YTXwaiudMAoR89KAi13udLAvg" alt="Ali Asghar – Full-Stack Developer" width="100%" />
+  <img src="https://github.com/aliasghar37/aliasghar37/blob/main/Banner.png" alt="Ali Asghar – Full-Stack Developer" width="100%" />
 </p>
 
 # 👋 Hi, I'm Ali Asghar
