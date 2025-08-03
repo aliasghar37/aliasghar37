@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHQPyrGqBDJ9A/profile-displaybackgroundimage-shrink_350_1400/B56ZgL.0yWGUAY-/0/1752547676860?e=1756944000&v=beta&t=7dRIx6O9TNNN_PCPE9YTXwaiudMAoR89KAi13udLAvg" alt="Ali Asghar – Full-Stack Developer" width="100%" />
+</p>
 
-<!--
-**aliasghar37/aliasghar37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ali Asghar
 
-Here are some ideas to get you started:
+I'm a **Full-Stack Developer** passionate about building modern web applications using MERN stack and bridging the gap between design and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Interests
+
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express, MongoDB, Pug  
+- **Tools**: Docker, Kubernetes, Figma
+- **Learning Focus**: Full-stack Development & UI/UX Design
+- **Interest**: Merging creative design with scalable full-stack development
+
+---
+
+## 📜 Certifications
+
+- ✅ **IBM Full-Stack JavaScript Developer** (Coursera / IBM)  
+- ✅ **Google IT Support Specialist** (Coursera / Google)  
+- ✅ **Graphic Design** – DigiSkills.pk
+
+---
+
+## 🚀 Highlight Project
+
+### [🌍 Natours – Full-Stack Tour Booking App](https://github.com/aliasghar37/natours)
+A complete backend-focused tour management application built with Node.js, Express, MongoDB, and Pug. It features tour management, secure user authentication, Stripe payment integration, and dynamic server-side rendering.
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub**: [aliasghar37](https://github.com/aliasghar37)  
+- **LinkedIn**: [aliasghar37](https://www.linkedin.com/in/aliasghar37/)  
+
+---
+
+> _"If I am worth anything later, I am worth something now. For wheat is wheat, even if people think it is grass in the beginning."_  
+> — Vincent van Gogh
+
+---
+
+Thanks for visiting my profile! Feel free to check out my work or reach out
