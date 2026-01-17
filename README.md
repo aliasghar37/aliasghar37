@@ -8,7 +8,7 @@ I'm a **Full-Stack Software Developer** passionate about building modern, full-s
 
 - **Frontend**: HTML, CSS, JavaScript, React, Next.js
 - **Backend**: Node.js, Express, MongoDB
-- **Tools**: Docker, Redis, Figma
+- **Tools**: Git, GitHub, Docker, Redis, Figma
 
 ---
 
